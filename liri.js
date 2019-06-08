@@ -1,12 +1,12 @@
 require('dotenv').config();
 
-var axios    = require('axios');
+var axios = require('axios');
 var inquirer = require('inquirer');
-var keys     = require('./keys');
-var moment   = require('moment')
-var fs       = require('fs')
-var Spotify  = require('node-spotify-api');
-var spotify  = new Spotify(keys.spotify)
+var keys = require('./keys');
+var moment = require('moment')
+var fs = require('fs')
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify)
 
 inquirer.prompt([
     {
@@ -29,7 +29,7 @@ inquirer.prompt([
             break;
         case "do-what-it-says":
             doWhatitSays(searchCriteria);
-        break;
+            break;
         case "concerts":
             bandsInTown(searchCriteria);
             break;
@@ -51,11 +51,11 @@ function searchSpotify(searchCriteria) {
         .then(function (response) {
             var songs = response.tracks.items;
             songs.forEach(function (item) {
-                var artist  = item.album.artists[0].name;
-                var song    = item.name;
+                var artist = item.album.artists[0].name;
+                var song = item.name;
                 var preview = item.preview_url;
-                var album   = item.album.name;
-                var output  = `
+                var album = item.album.name;
+                var output = `
 Artist:  ${artist}
 Song:    ${song}
 Preview: ${preview}
@@ -63,6 +63,10 @@ Album:   ${album}\n
 ___________________________________________________
 `;
                 console.log(output);
+                fs.appendFile('log.txt', output, (err) => {
+                    if (err) throw err;
+                    console.log('The "data to append" was appended to file!');
+                });
             })
         })
         .catch(function (err) {
@@ -76,13 +80,13 @@ function bandsInTown(searchCriteria) {
         .then(function (response) {
             // handle success
             console.log("RESPONSE: ", response)
-            response.data.forEach(function(item){
-                var venue        = displayVenue(item);
-                var date         = moment(item.datetime).format('LLLL');
-                var sale         = displaySaleDate(item);
+            response.data.forEach(function (item) {
+                var venue = displayVenue(item);
+                var date = moment(item.datetime).format('LLLL');
+                var sale = displaySaleDate(item);
                 var purchaseLink = item.offers[0].url;
-                var lineUp       = item.lineup.join(', ');
-                var output       = `
+                var lineUp = item.lineup.join(', ');
+                var output = `
 LINEUP:                     ${lineUp}
 
 VENUE:                      ${venue}
@@ -95,6 +99,10 @@ PURCHASE LINK:              ${purchaseLink}
 _____________________________________________________________________________________________
 `
                 console.log(output);
+                fs.appendFile('log.txt', output, (err) => {
+                    if (err) throw err;
+                    console.log('The "data to append" was appended to file!');
+                });
             });
         })
         .catch(function (error) {
@@ -103,13 +111,13 @@ ________________________________________________________________________________
         });
 };
 
-function searchOMDB(searchCriteria){
-    if (searchCriteria === ""){
+function searchOMDB(searchCriteria) {
+    if (searchCriteria === "") {
         searchCriteria = "Mr. Nobody"
     }
-    axios.get('http://www.omdbapi.com/?apikey=287d9ee8&t='+searchCriteria)
-    .then(function(response){
-        var output   = `
+    axios.get('http://www.omdbapi.com/?apikey=287d9ee8&t=' + searchCriteria)
+        .then(function (response) {
+            var output = `
 Movie Title:          ${response.data.Title}
 Release Year:         ${response.data.Year}
 imdb Rating:          ${response.data.imdbRating}
@@ -121,15 +129,19 @@ Actors:               ${response.data.Actors}
 
 ___________________________________________________________________`
 
-        console.log(output);
-    })
+            console.log(output);
+            fs.appendFile('log.txt', output, (err) => {
+                if (err) throw err;
+                console.log('The "data to append" was appended to file!');
+            });
+        })
 };
 
-function doWhatitSays(searchCriteria){
+function doWhatitSays(searchCriteria) {
     console.log(searchCriteria);
 
-    fs.readFile("random.txt", "utf8", function(err, data){
-        if (err){
+    fs.readFile("random.txt", "utf8", function (err, data) {
+        if (err) {
             return console.log(err);
         };
         var data = data.split(", ")
@@ -137,28 +149,28 @@ function doWhatitSays(searchCriteria){
         switch (searchCriteria) {
             case "songs":
                 searchSpotify(data[0]);
-            break;
+                break;
             case "concerts":
                 bandsInTown(JSON.parse(data[1]));
-            break;
+                break;
             case "movies":
                 searchOMDB(data[2]);
-            break;
+                break;
         }
     })
 }
 // SECONDARY FUNCTIONS ------------------------------------------------------------------------------
 
-function displayVenue(item){
-    if (item.venue.region === ""){
+function displayVenue(item) {
+    if (item.venue.region === "") {
         return `${item.venue.name}   --- in ---   ${item.venue.city}, ${item.venue.country}`;
     } else {
         return `${item.venue.name}   --- in ---   ${item.venue.city} ${item.venue.region}, ${item.venue.country}`;
-    }; 
+    };
 };
 
-function displaySaleDate(item){
-    if (item.on_sale_datetime === ""){
+function displaySaleDate(item) {
+    if (item.on_sale_datetime === "") {
         return 'TBD';
     } else {
         return moment(item.on_sale_datetime).format('LLLL');
