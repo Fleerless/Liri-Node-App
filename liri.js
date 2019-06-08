@@ -1,9 +1,12 @@
-var axios = require('axios');
+require('dotenv').config();
+
+var axios    = require('axios');
 var inquirer = require('inquirer');
-var keys = require('./keys');
-var moment = require('moment')
-var Spotify = require('node-spotify-api');
-var spotify = new Spotify(keys.spotify)
+var keys     = require('./keys');
+var moment   = require('moment')
+var fs       = require('fs')
+var Spotify  = require('node-spotify-api');
+var spotify  = new Spotify(keys.spotify)
 
 inquirer.prompt([
     {
@@ -25,8 +28,8 @@ inquirer.prompt([
             searchSpotify(searchCriteria);
             break;
         case "do-what-it-says":
-            // Review bank class activity
-            break;
+            doWhatitSays(searchCriteria);
+        break;
         case "concerts":
             bandsInTown(searchCriteria);
             break;
@@ -99,6 +102,9 @@ ________________________________________________________________________________
 };
 
 function searchOMDB(searchCriteria){
+    if (searchCriteria === ""){
+        searchCriteria = "Mr. Nobody"
+    }
     axios.get('http://www.omdbapi.com/?apikey=287d9ee8&t='+searchCriteria)
     .then(function(response){
         var output   = `
@@ -117,6 +123,25 @@ ___________________________________________________________________`
     })
 };
 
+function doWhatitSays(searchCriteria){
+    fs.readFile("random.txt", "utf8", function(err, data){
+        if (err){
+            return console.log(err);
+        };
+        var data = data.split(", ")
+        switch (searchCriteria) {
+            case "songs":
+                searchSpotify(data[0]);
+            break;
+            case "concerts":
+                bandsInTown(data[1]);
+            break;
+            case "movies":
+                searchOMDB(data[2]);
+            break;
+        }
+    })
+}
 // SECONDARY FUNCTIONS ------------------------------------------------------------------------------
 
 function displayVenue(item){
