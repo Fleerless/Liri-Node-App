@@ -71,9 +71,11 @@ ___________________________________________________
 };
 
 function bandsInTown(searchCriteria) {
+    console.log(searchCriteria);
     axios.get("https://rest.bandsintown.com/artists/" + searchCriteria + "/events?app_id=codingbootcamp")
         .then(function (response) {
             // handle success
+            console.log("RESPONSE: ", response)
             response.data.forEach(function(item){
                 var venue        = displayVenue(item);
                 var date         = moment(item.datetime).format('LLLL');
@@ -124,17 +126,20 @@ ___________________________________________________________________`
 };
 
 function doWhatitSays(searchCriteria){
+    console.log(searchCriteria);
+
     fs.readFile("random.txt", "utf8", function(err, data){
         if (err){
             return console.log(err);
         };
         var data = data.split(", ")
+        console.log(data[0], data[1], data[2]);
         switch (searchCriteria) {
             case "songs":
                 searchSpotify(data[0]);
             break;
             case "concerts":
-                bandsInTown(data[1]);
+                bandsInTown(JSON.parse(data[1]));
             break;
             case "movies":
                 searchOMDB(data[2]);
