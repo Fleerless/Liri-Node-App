@@ -32,6 +32,7 @@ inquirer.prompt([
             break;
         case "movies":
             // Review movies class activity
+            searchOMDB(searchCriteria);
             break;
     }
 })
@@ -64,7 +65,7 @@ ___________________________________________________
         .catch(function (err) {
             console.log(err);
         });
-}
+};
 
 function bandsInTown(searchCriteria) {
     axios.get("https://rest.bandsintown.com/artists/" + searchCriteria + "/events?app_id=codingbootcamp")
@@ -97,6 +98,25 @@ ________________________________________________________________________________
         });
 };
 
+function searchOMDB(searchCriteria){
+    axios.get('http://www.omdbapi.com/?apikey=287d9ee8&t='+searchCriteria)
+    .then(function(response){
+        var output   = `
+Movie Title:          ${response.data.Title}
+Release Year:         ${response.data.Year}
+imdb Rating:          ${response.data.imdbRating}
+Rotten Tomatoes:      ${response.data.Ratings[1].Value}
+Origin Country:       ${response.data.Country}
+Language:             ${response.data.Language}
+Plot:                 ${response.data.Plot}
+Actors:               ${response.data.Actors}
+
+___________________________________________________________________`
+
+        console.log(output);
+    })
+};
+
 // SECONDARY FUNCTIONS ------------------------------------------------------------------------------
 
 function displayVenue(item){
@@ -113,4 +133,4 @@ function displaySaleDate(item){
     } else {
         return moment(item.on_sale_datetime).format('LLLL');
     }
-}
+};
