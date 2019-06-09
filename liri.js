@@ -136,14 +136,11 @@ ___________________________________________________________________`
 };
 
 function doWhatitSays(searchCriteria) {
-    console.log(searchCriteria);
-
     fs.readFile("random.txt", "utf8", function (err, data) {
         if (err) {
             return console.log(err);
         };
         var data = data.split(", ")
-        console.log(data[0], data[1], data[2]);
         switch (searchCriteria) {
             case "songs":
                 searchSpotify(data[0]);

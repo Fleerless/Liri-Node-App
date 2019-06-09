@@ -1,1 +1,508 @@
 
+
+Artist:  Toto
+Song:    Africa
+Preview: https://p.scdn.co/mp3-preview/dd78dafe31bb98f230372c038a126b8808f9349b?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   Toto IV
+
+___________________________________________________
+
+LINEUP:                     Metallica, GHOST, Bokassa
+
+VENUE:                      Johan Cruijff ArenA   --- in ---   Amsterdam, Netherlands
+
+DATE:                       Tuesday, June 11, 2019 6:00 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011903693?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      RheinEnergieSTADION   --- in ---   Köln, Germany
+
+DATE:                       Thursday, June 13, 2019 5:30 PM
+AVAILABLE FOR PURCHASE:     Tuesday, September 25, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905193?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slayer, Megadeth, Anthrax
+
+VENUE:                      King Baudouin Stadium   --- in ---   Bruxelles, Belgium
+
+DATE:                       Sunday, June 16, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905664?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, GHOST, Bokassa
+
+VENUE:                      Twickenham Stadium   --- in ---   London, United Kingdom
+
+DATE:                       Thursday, June 20, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 9:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905760?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, GHOST, Bokassa
+
+VENUE:                      Etihad Stadium   --- in ---   Manchester, United Kingdom
+
+DATE:                       Tuesday, June 18, 2019 12:00 AM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011902586?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Olympiastadion   --- in ---   Berlin, Germany
+
+DATE:                       Saturday, July 6, 2019 5:30 PM
+AVAILABLE FOR PURCHASE:     Tuesday, September 25, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905605?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Platinum
+
+VENUE:                      Ullevi Restaurant & Conference   --- in ---   Göteborg, Sweden
+
+DATE:                       Tuesday, July 9, 2019 6:45 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011903922?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Parken Kopenhagen   --- in ---   Copenhagen, Denmark
+
+DATE:                       Thursday, July 11, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905167?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Granasen Arena   --- in ---   Trondheim, Norway
+
+DATE:                       Saturday, July 13, 2019 3:30 AM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905547?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      KANTOLAN TAPAHTUMAPUISTO   --- in ---   Hameenlinna, Finland
+
+DATE:                       Tuesday, July 16, 2019 3:01 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 7:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011906245?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Raadi lennuväli   --- in ---   Tartu, Estonia
+
+DATE:                       Thursday, July 18, 2019 6:30 PM
+AVAILABLE FOR PURCHASE:     Tuesday, September 25, 2018 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011902677?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      The Luzhniki Stadium   --- in ---   Moscow, Russia
+
+DATE:                       Sunday, July 21, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1012029510?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      National Stadion Bukarest   --- in ---   Bucharest, Romania
+
+DATE:                       Wednesday, August 14, 2019 4:30 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011939103?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Ernst-Happel-Stadion   --- in ---   Wien, Austria
+
+DATE:                       Friday, August 16, 2019 6:00 PM
+AVAILABLE FOR PURCHASE:     Tuesday, September 25, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011901158?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Letiště Praha Letňany   --- in ---   Praha, Czech Republic
+
+DATE:                       Sunday, August 18, 2019 4:00 PM
+AVAILABLE FOR PURCHASE:     Friday, September 28, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905787?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Platinum
+
+VENUE:                      PGE Narodowy   --- in ---   Warsaw, Poland
+
+DATE:                       Wednesday, August 21, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1012029505?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Maimarkt Gelände   --- in ---   Mannheim, Germany
+
+DATE:                       Sunday, August 25, 2019 6:00 PM
+AVAILABLE FOR PURCHASE:     Tuesday, September 25, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011905533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Metallica/San Francisco Symphony
+
+VENUE:                      Chase Center   --- in ---   San Francisco CA, United States
+
+DATE:                       Friday, September 6, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, March 22, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014253984?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Metallica/San Francisco Symphony
+
+VENUE:                      Chase Center   --- in ---   San Francisco CA, United States
+
+DATE:                       Sunday, September 8, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, April 12, 2019 2:48 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014689342?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slipknot
+
+VENUE:                      Optus Stadium   --- in ---   Burswood, Australia
+
+DATE:                       Thursday, October 17, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Monday, March 18, 2019 2:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014101484?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Adelaide Oval   --- in ---   North Adelaide, Australia
+
+DATE:                       Sunday, October 20, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014092732?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica
+
+VENUE:                      Olympiastadion   --- in ---   Munchen, Germany
+
+DATE:                       Friday, August 23, 2019 6:00 PM
+AVAILABLE FOR PURCHASE:     Tuesday, September 25, 2018 8:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1011903513?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slipknot
+
+VENUE:                      Marvel Stadium   --- in ---   Docklands, Australia
+
+DATE:                       Tuesday, October 22, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Monday, March 18, 2019 2:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014100249?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slipknot
+
+VENUE:                      Marvel Stadium   --- in ---   Docklands, Australia
+
+DATE:                       Thursday, October 24, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Tuesday, April 9, 2019 2:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014459820?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Sad
+
+VENUE:                      Kulturbesen   --- in ---   Schramberg, Germany
+
+DATE:                       Saturday, October 26, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Monday, March 18, 2019 3:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014100179?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slipknot
+
+VENUE:                      Queensland Sport And Athletics Centre (QSAC)   --- in ---   Brisbane, Australia
+
+DATE:                       Tuesday, October 29, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Monday, March 18, 2019 2:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014101545?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slipknot
+
+VENUE:                      Mt Smart Stadium   --- in ---   Auckland, New Zealand
+
+DATE:                       Thursday, October 31, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Monday, March 18, 2019 2:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014100591?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Metallica, Slipknot
+
+VENUE:                      Mt Smart Stadium   --- in ---   Auckland, New Zealand
+
+DATE:                       Saturday, November 2, 2019 7:30 PM
+AVAILABLE FOR PURCHASE:     Tuesday, April 9, 2019 2:00 PM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1014459970?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+Movie Title:          Top Gun
+Release Year:         1986
+imdb Rating:          6.9
+Rotten Tomatoes:      55%
+Origin Country:       USA
+Language:             English
+Plot:                 As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors:               Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+___________________________________________________________________
+Movie Title:          Mr. Nobody
+Release Year:         2009
+imdb Rating:          7.8
+Rotten Tomatoes:      67%
+Origin Country:       Belgium, Germany, Canada, France, USA, UK
+Language:             English, Mohawk
+Plot:                 A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors:               Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+___________________________________________________________________
+LINEUP:                     Lucero
+
+VENUE:                      St. Jude Benefit [BEN SOLO] - *no advance tickets, $10 gate day of only   --- in ---   Minneapolis MN, United States
+
+DATE:                       Saturday, June 8, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100926022?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Turf Club [BEN SOLO]   --- in ---   Saint Augusta MN, United States
+
+DATE:                       Sunday, June 9, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100926025?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      The Grog Shop [BEN SOLO]   --- in ---   Cleveland OH, United States
+
+DATE:                       Friday, June 14, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100923013?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Town Ballroom [BEN SOLO]   --- in ---   Buffalo NY, United States
+
+DATE:                       Saturday, June 15, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100926030?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Black Deer Festival   --- in ---   Kent, United Kingdom
+
+DATE:                       Friday, June 21, 2019 12:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100816321?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Azkena Rock Festival   --- in ---   Vitoria-gasteiz, Spain
+
+DATE:                       Friday, June 21, 2019 12:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100472878?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Black Deer Festival   --- in ---   Kent, United Kingdom
+
+DATE:                       Saturday, June 22, 2019 12:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100816322?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Azkena Rock Festival   --- in ---   Vitoria-gasteiz, Spain
+
+DATE:                       Saturday, June 22, 2019 12:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100472880?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Black Deer Festival   --- in ---   Kent, United Kingdom
+
+DATE:                       Sunday, June 23, 2019 12:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100816323?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Riot Fest   --- in ---   Chicago IL, United States
+
+DATE:                       Friday, September 13, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101233260?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Riot Fest   --- in ---   Chicago IL, United States
+
+DATE:                       Saturday, September 14, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101233264?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Riot Fest   --- in ---   Chicago IL, United States
+
+DATE:                       Sunday, September 15, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101233266?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Hi-Fi [BEN SOLO]   --- in ---   Indianapolis IN, United States
+
+DATE:                       Wednesday, June 12, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100926014?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Ballroom @ 31 West [BEN SOLO]   --- in ---   Newark OH, United States
+
+DATE:                       Thursday, June 13, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100926029?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Lucero
+
+VENUE:                      Space [BEN SOLO]   --- in ---   Evanston IL, United States
+
+DATE:                       Tuesday, June 11, 2019 7:00 PM
+AVAILABLE FOR PURCHASE:     TBD
+
+PURCHASE LINK:              https://www.bandsintown.com/t/100926027?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+Artist:  Backstreet Boys
+Song:    I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   The Hits--Chapter One
+
+___________________________________________________
