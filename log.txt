@@ -1,11 +1,1 @@
 
-Movie Title:          Top Gun
-Release Year:         1986
-imdb Rating:          6.9
-Rotten Tomatoes:      55%
-Origin Country:       USA
-Language:             English
-Plot:                 As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
-Actors:               Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
-
-___________________________________________________________________

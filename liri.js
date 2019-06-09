@@ -75,11 +75,9 @@ ___________________________________________________
 };
 
 function bandsInTown(searchCriteria) {
-    console.log(searchCriteria);
     axios.get("https://rest.bandsintown.com/artists/" + searchCriteria + "/events?app_id=codingbootcamp")
         .then(function (response) {
             // handle success
-            console.log("RESPONSE: ", response)
             response.data.forEach(function (item) {
                 var venue = displayVenue(item);
                 var date = moment(item.datetime).format('LLLL');
