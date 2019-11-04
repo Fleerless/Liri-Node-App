@@ -506,3 +506,345 @@ Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?
 Album:   The Hits--Chapter One
 
 ___________________________________________________
+
+Artist:  G-Eazy
+Song:    I Wanna Rock (feat. Gunna)
+Preview: https://p.scdn.co/mp3-preview/068ed9b33c2680044eb0a37358b3152654842d23?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   I Wanna Rock (feat. Gunna)
+
+___________________________________________________
+
+Artist:  Weezer
+Song:    I Love The USA
+Preview: https://p.scdn.co/mp3-preview/0303052382cdbbec1fe16fd58c8731af2a704d79?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   Weezer (White Album - Deluxe Edition)
+
+___________________________________________________
+
+Artist:  Lucero
+Song:    Nights Like These
+Preview: https://p.scdn.co/mp3-preview/ca29b84fd76bd6b08f93056b6adfa9d4dd9f355b?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   Tennessee
+
+___________________________________________________
+
+Movie Title:          Top Gun
+Release Year:         1986
+imdb Rating:          6.9
+Rotten Tomatoes:      55%
+Origin Country:       USA
+Language:             English
+Plot:                 As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors:               Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+___________________________________________________________________
+Artist:  Backstreet Boys
+Song:    I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   The Hits--Chapter One
+
+___________________________________________________
+
+Artist:  The Cars
+Song:    My Best Friend's Girl
+Preview: https://p.scdn.co/mp3-preview/76ed92c98e2c31d48c4475c11b13a97068389db7?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   The Cars
+
+___________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Chesapeake Energy Arena   --- in ---   Oklahoma City OK, United States
+
+DATE:                       Monday, November 4, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 26, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016426346?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Toyota Center   --- in ---   Houston TX, United States
+
+DATE:                       Tuesday, November 5, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016299483?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Gila River Arena   --- in ---   Glendale AZ, United States
+
+DATE:                       Friday, November 8, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016301199?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Pepsi Center   --- in ---   Denver CO, United States
+
+DATE:                       Sunday, November 10, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016298490?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Oakland Arena   --- in ---   Oakland CA, United States
+
+DATE:                       Thursday, November 14, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016301510?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Honda Center   --- in ---   Anaheim CA, United States
+
+DATE:                       Saturday, November 16, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016298761?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Honda Center   --- in ---   Anaheim CA, United States
+
+DATE:                       Sunday, November 17, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101398168?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      The Forum   --- in ---   Los Angeles CA, United States
+
+DATE:                       Wednesday, November 20, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016299429?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      The Forum   --- in ---   Los Angeles CA, United States
+
+DATE:                       Thursday, November 21, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101398172?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Tinderbox
+
+VENUE:                      Tusindårsskoven   --- in ---   Odense, Denmark
+
+DATE:                       Thursday, June 25, 2020 7:00 PM
+AVAILABLE FOR PURCHASE:     Tuesday, October 22, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1017746267?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Vivint Smart Home Arena   --- in ---   Salt Lake City UT, United States
+
+DATE:                       Monday, November 11, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016301075?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+Artist:  Ben Folds Five
+Song:    Steven's Last Night in Town
+Preview: https://p.scdn.co/mp3-preview/871690fc5b955b45b275245a1d6e38c4a64e516e?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   Whatever And Ever Amen (Remastered Edition)
+
+___________________________________________________
+
+Artist:  Lynyrd Skynyrd
+Song:    Sweet Home Alabama
+Preview: null
+Album:   Second Helping
+
+___________________________________________________
+
+Artist:  Lynyrd Skynyrd
+Song:    Sweet Home Alabama
+Preview: null
+Album:   Second Helping
+
+___________________________________________________
+
+Movie Title:          Top Gun
+Release Year:         1986
+imdb Rating:          6.9
+Rotten Tomatoes:      55%
+Origin Country:       USA
+Language:             English
+Plot:                 As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors:               Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+___________________________________________________________________
+Artist:  Lynyrd Skynyrd
+Song:    Sweet Home Alabama
+Preview: null
+Album:   Second Helping
+
+___________________________________________________
+
+Movie Title:          Top Gun
+Release Year:         1986
+imdb Rating:          6.9
+Rotten Tomatoes:      55%
+Origin Country:       USA
+Language:             English
+Plot:                 As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+Actors:               Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+___________________________________________________________________
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Chesapeake Energy Arena   --- in ---   Oklahoma City OK, United States
+
+DATE:                       Monday, November 4, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 26, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016426346?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Toyota Center   --- in ---   Houston TX, United States
+
+DATE:                       Tuesday, November 5, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016299483?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Gila River Arena   --- in ---   Glendale AZ, United States
+
+DATE:                       Friday, November 8, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016301199?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Pepsi Center   --- in ---   Denver CO, United States
+
+DATE:                       Sunday, November 10, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016298490?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Vivint Smart Home Arena   --- in ---   Salt Lake City UT, United States
+
+DATE:                       Monday, November 11, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016301075?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Oakland Arena   --- in ---   Oakland CA, United States
+
+DATE:                       Thursday, November 14, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016301510?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Honda Center   --- in ---   Anaheim CA, United States
+
+DATE:                       Saturday, November 16, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016298761?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      Honda Center   --- in ---   Anaheim CA, United States
+
+DATE:                       Sunday, November 17, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101398168?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      The Forum   --- in ---   Los Angeles CA, United States
+
+DATE:                       Wednesday, November 20, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1016299429?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Swae Lee, Tyla Yaweh
+
+VENUE:                      The Forum   --- in ---   Los Angeles CA, United States
+
+DATE:                       Thursday, November 21, 2019 8:00 PM
+AVAILABLE FOR PURCHASE:     Friday, July 19, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/101398172?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+LINEUP:                     Post Malone, Tinderbox
+
+VENUE:                      Tusindårsskoven   --- in ---   Odense, Denmark
+
+DATE:                       Thursday, June 25, 2020 7:00 PM
+AVAILABLE FOR PURCHASE:     Tuesday, October 22, 2019 10:00 AM
+
+PURCHASE LINK:              https://www.bandsintown.com/t/1017746267?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+
+_____________________________________________________________________________________________
+
+Artist:  Backstreet Boys
+Song:    I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3ee5e980a5d2470181bfa4c5ad909e9b
+Album:   The Hits--Chapter One
+
+___________________________________________________
